@@ -1,8 +1,11 @@
 Hello this is the test for github and its features by Jaison. 
 The commit will show jaison as a the contributor.
 
-This is to test the second commit and the features of git versioning
+
 
 This is the feature code that woulf be present here and it is in the feature branch.
 
 This is my first commit
+
+This is one more Novel Readers: GitHub hosts numerous projects for readers of novels or light novels, many of which are free and open-source applications for desktop or mobile. 
+
